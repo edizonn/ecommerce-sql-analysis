@@ -36,6 +36,7 @@ Here's what I found out:
 5. May 27, 2019 recorded the highest daily transactions with 1.6k while June 6, 2019 had the lowest daily transactions with only 187. 
 
 ## **Recommendations**
+Here's my recommendation for the stakeholders:
 1. Validate the age data since there is a large number of invalid ages.
 2. Investigate the sales decline between May and June 2019.
 3. Grant promo deals for customers with 1 - 3 yrs membership and provide more benefits and exclusive promo deals for customers with 5 - 10 yrs of membership.
