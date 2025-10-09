@@ -20,9 +20,9 @@ E-commerce businesses often struggle to translate large volumes of customer and 
 * Identify trends or patterns in product purchases over time. 
 
 ## **Methodology**
-* I cleaned and standardized the data using SQL
-* I explored customer table using aggregating functions, grouping data, adding new columns.
-* I explored basket table using aggregating functions, grouping data, and joins.
+* Cleaned and standardized the data using SQL
+* Explored customer table using aggregating functions, grouping data, adding new columns.
+* Explored basket table using aggregating functions, grouping data, and joins.
 
 ## **Skills**
 * SQL - Joins, Group By, Aggregating Functions, Subquery
