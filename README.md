@@ -29,14 +29,14 @@ E-commerce businesses often struggle to translate large volumes of customer and 
 
 ## **Results**
 Here's what I found out:
-1. There's a large count of customers that has invalid age (age below 16 or above 100) in the dataset. It is approximately 29.1% of all customers. 
-2. Most customers have been with the company for 5–10 years, followed closely by those with 1–3 years of membership. 
-3. Only 42 customers appear in both tables, while 13k have basket data but missing customer records. 
-4. Transaction volume decreases from 8.9k in May 2019 to 6.1k in June 2019. 
-5. May 27, 2019 recorded the highest daily transactions with 1.6k while June 6, 2019 had the lowest daily transactions with only 187. 
+* There's a large count of customers that has invalid age (age below 16 or above 100) in the dataset. It is approximately 29.1% of all customers. 
+* Most customers have been with the company for 5–10 years, followed closely by those with 1–3 years of membership. 
+* Only 42 customers appear in both tables, while 13k have basket data but missing customer records. 
+* Transaction volume decreases from 8.9k in May 2019 to 6.1k in June 2019. 
+* May 27, 2019 recorded the highest daily transactions with 1.6k while June 6, 2019 had the lowest daily transactions with only 187. 
 
 ## **Recommendations**
 Here's my recommendation for the stakeholders:
-1. Validate the age data since there is a large number of invalid ages.
-2. Investigate the sales decline between May and June 2019.
-3. Grant promo deals for customers with 1 - 3 yrs membership and provide more benefits and exclusive promo deals for customers with 5 - 10 yrs of membership.
+* Validate the age data since there is a large number of invalid ages.
+* Investigate the sales decline between May and June 2019.
+* Grant promo deals for customers with 1 - 3 yrs membership and provide more benefits and exclusive promo deals for customers with 5 - 10 yrs of membership.
